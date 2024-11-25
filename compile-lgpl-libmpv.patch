@@ -38,10 +38,9 @@ index 49a0f6e95..e06b281d2 100644
 -        avisynth-headers
          ${nvcodec_headers}
          bzip2
+         gmp
          lame
-         lcms2
          openssl
--        libssh
 -        libsrt
          libass
          libbluray

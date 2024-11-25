@@ -164,7 +164,7 @@ index b30e6e33f..af4c944b6 100644
          --cross-file=${MESON_CROSS}
          --default-library=shared
          --prefer-static
-+        -Dgpl=false
++        -Dgpl=false 
          -Ddebug=true
          -Db_ndebug=true
          -Doptimization=3
